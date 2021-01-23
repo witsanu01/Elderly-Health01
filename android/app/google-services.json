@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524462145955",
+    "project_id": "flutter-elderly-clone",
+    "storage_bucket": "flutter-elderly-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524462145955:android:fef905b7ac0a01b64a9a16",
+        "android_client_info": {
+          "package_name": "com.example.Elderly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524462145955-7pe7p04j4pdautiuj9rcpv19uk29nbsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70yMDLZYza97y5JKyjriEZfhfswM-jQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524462145955-7pe7p04j4pdautiuj9rcpv19uk29nbsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
